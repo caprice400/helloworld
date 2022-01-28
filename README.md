@@ -10,8 +10,8 @@ this is markdown.
 
 ***oh please really***
 
-> my father moved through dooms of love, of sames of am, of haves of give. 
-> feeding each morning, out of each night, my father moved through depths of height. 
+> my father moved through dooms of love, through sames of am, through haves of give,
+> singing each morning, out of each night, my father moved through depths of height. 
 
 ``` 
 for i in ['rob', 'fatland']:
