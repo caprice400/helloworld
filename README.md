@@ -14,7 +14,7 @@ this is markdown.
 > singing each morning, out of each night, my father moved through depths of height. 
 
 ``` 
-for i in ['rob', 'fatland']:
+for i in ['every', 'other', 'day']:
 ```
 
 
