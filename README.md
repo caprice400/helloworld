@@ -1,4 +1,25 @@
-#### helloworld
+# helloworld
+
+## a profusion of hubs
+
+* github: software control website alloyed to the linux `git` utility
+* jupyter hub: 
+* dockerhub: 
+* binderhub: 
+* uwhub: pizza
+
+### related important tech 
+
+* vscode
+* bash
+* tsl
+* dns
+* pip, apt-get, conda package managers
+* rust
+* minecraft
+* gamemaker studio 2
+* machine learning
+* numpy, pandas, xarray, matplotlib, turtle
 
 ## my git recipe
 
