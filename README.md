@@ -20,6 +20,7 @@
 * gamemaker studio 2
 * machine learning
 * numpy, pandas, xarray, matplotlib, turtle
+* LaTeX
 
 ## my git recipe
 
@@ -54,6 +55,6 @@ this is markdown.
 for i in ['every', 'other', 'day']:
 ```
 
-
+$$ y = \sqrt{2 \pi}$$
 
 
