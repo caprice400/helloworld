@@ -1,5 +1,21 @@
 #### helloworld
 
+## my git recipe
+
+From the bash shell:
+
+* `git pull`: update my local copy from github 
+* `git add .`: include all files in my pending commit
+* `git commit -m 'a comment'`: commit
+* `git push`: send my updates to github
+
+things can get snarled. when this happens: read up on git stash. 
+
+## interesting urls
+
+* [4D Printing](https://builtin.com/3d-printing/4d-printing)
+* [Bumpkin Oceanography](https://github.com/robfatland/ocean)
+
 this is markdown. 
 
 *more markdown*
