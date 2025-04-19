@@ -1,4 +1,4 @@
-# helloworld
+# helloworld $\pi=3$
 
 ## a profusion of hubs
 
